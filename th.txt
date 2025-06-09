@@ -1,0 +1,5 @@
+web scrapping | pandas | data cleaning |cibon | mat | 
+imgee to text | model training
+
+single : Series
+md : DataFrame
