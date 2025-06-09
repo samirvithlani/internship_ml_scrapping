@@ -3,3 +3,6 @@ imgee to text | model training
 
 single : Series
 md : DataFrame
+
+Read Data from csv file
+comma separated values 10,amit,gujarat

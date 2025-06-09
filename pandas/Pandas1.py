@@ -24,5 +24,8 @@ print(a[1:3])  # Slicing from index 1 to 2 (exclusive of 3)
 x1 = pd.Series([1, 2, 3, 4])
 x2 = pd.Series([10, 20, 30, 40])
 
+#give custome index to add
 add = x1 + x2 # Addition
+# If you want to see the result with custom index
+add.index = ['a', 'b', 'c', 'd']
 print("Addition:\n", add)
